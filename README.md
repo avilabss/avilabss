@@ -6,6 +6,8 @@
   <img src="https://badges.pufler.dev/commits/monthly/git-avinash" />
 </p>
 
+<h2 align="center">Technology Stack</h2>
+
 <p align="center">
   <a href="https://github.com/git-avinash">
     <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=git-avinash&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Avinash's GitHub stats" />
