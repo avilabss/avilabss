@@ -8,6 +8,26 @@
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
+   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python"/>
+   <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart"/>
+   <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter"/>
+   <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5"/>
+   <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3"/>
+   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript"/>
+   <img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react"/>
+   <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap"/>
+   <img src="https://img.shields.io/badge/TailWind-0d1117?style=flat-square&logo=tailwindcss"/>
+   <img src="https://img.shields.io/badge/MaterialUI-0d1117?style=flat-square&logo=mui"/>
+   <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=Node.js"/>
+   <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express"/>
+   <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask"/>
+   <img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=Socket.io"/>
+   <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django"/>
+   <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql"/>
+   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb"/>
+   <img src="https://img.shields.io/badge/Heroku-0d1117?style=flat-square&logo=heroku"/>
+   <img src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify"/>
+   <img src="https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium"/>
    <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman"/>
 </p>
    
