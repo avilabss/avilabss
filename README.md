@@ -32,6 +32,17 @@
 </p>
    
 <h2 align="center">Socials</h2>
+<p align="center">
+   <a href="mailto: mail.avinashsah@gmail.com">
+      <img src="https://img.shields.io/badge/Mail-0d1117?style=flat-square&logo=gmail"/>
+   </a>
+   <a href="https://www.linkedin.com/in/dev-avi/">
+      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin"/>
+   </a>
+   <a href="https://www.instagram.com/avinashsah_/">
+      <img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram"/>
+   </a>
+</p>
 
 <h2 align="center">Github Stats</h2>
 
