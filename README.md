@@ -8,7 +8,7 @@
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
-   <img src="https://img.shields.io/badge/Postman-072227?style=flat-square&logo=postman"/>
+   <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman"/>
 </p>
    
 <h2 align="center">Socials</h2>
