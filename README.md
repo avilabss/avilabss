@@ -7,7 +7,10 @@
 </p>
 
 <h2 align="center">Technology Stack</h2>
-
+<p align="center">
+   <img src="https://img.shields.io/badge/Postman-ffffff?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+   
 <h2 align="center">Socials</h2>
 
 <h2 align="center">Github Stats</h2>
