@@ -21,6 +21,7 @@
    <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=Node.js"/>
    <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express"/>
    <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask"/>
+   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi"/>
    <img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=Socket.io"/>
    <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django"/>
    <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql"/>
