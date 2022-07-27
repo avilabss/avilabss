@@ -1,9 +1,9 @@
-<img src="https://github.com/git-avinash/git-avinash/blob/main/assets/banner.png" />
+<img src="https://github.com/git-avilabs/git-avilabs/blob/main/assets/banner.png" />
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/git-avinash/git-avinash"/> 
-  <img src="https://badges.pufler.dev/repos/git-avinash"/>
-  <img src="https://badges.pufler.dev/commits/monthly/git-avinash" />
+  <img src="https://badges.pufler.dev/visits/git-avilabs/git-avilabs"/> 
+  <img src="https://badges.pufler.dev/repos/git-avilabs"/>
+  <img src="https://badges.pufler.dev/commits/monthly/git-avilabs" />
 </p>
 
 <h2 align="center">Technology Stack</h2>
