@@ -30,6 +30,8 @@
    <img src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify"/>
    <img src="https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium"/>
    <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman"/>
+   <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker"/>
+   <img src="https://img.shields.io/badge/Ansible-0d1117?style=flat-square&logo=ansible"/>
 </p>
    
 <h2 align="center">Socials</h2>
