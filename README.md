@@ -1,10 +1,10 @@
 <img src="https://github.com/git-avilabs/git-avilabs/blob/main/assets/banner.png" />
 
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/git-avilabs/git-avilabs"/> 
-  <img src="https://badges.pufler.dev/repos/git-avilabs"/>
-  <img src="https://badges.pufler.dev/commits/monthly/git-avilabs" />
-</p>
+[//]: #<p align="center">
+[//]: #  <img src="https://badges.pufler.dev/visits/git-avilabs/git-avilabs"/> 
+[//]: #  <img src="https://badges.pufler.dev/repos/git-avilabs"/>
+[//]: #  <img src="https://badges.pufler.dev/commits/monthly/git-avilabs" />
+[//]: #</p>
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
